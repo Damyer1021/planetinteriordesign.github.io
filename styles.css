@@ -179,3 +179,15 @@ input:focus,select:focus,textarea:focus{border-color:var(--accent-2); box-shadow
   .nav__links.show{display:flex}
   .grid--3{grid-template-columns:1fr}
 }
+.logo__img{
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+  border-radius: 10px;
+  background: transparent;
+}
+
+.logo__img--footer{
+  width: 44px;
+  height: 44px;
+}
